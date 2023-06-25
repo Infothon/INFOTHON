@@ -1,3 +1,8 @@
+.button-container{
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+}
 #principal{
   white-space: nowrap;
   overflow: hidden;
